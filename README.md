@@ -56,7 +56,7 @@ This project lets you convert any blog or article listing page into a valid RSS 
 
 ### 🟦 One-Click Deploy
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yourusername/rss-feed-worker)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ProfessorManhattan/rss-worker)
 
 > ✏️ **Make sure to fork this repo first**, then update the button URL with your GitHub username.
 
@@ -123,4 +123,4 @@ Pull requests are welcome! If you have ideas for improving selector flexibility,
 
 ## 🧰 License
 
-MIT License © [Megabyte Labs](https://megabyte.space)
+MIT License © [Megabyte Labs Open-Source](https://megabyte.space)
