@@ -26,7 +26,7 @@
 This project lets you convert any blog or article listing page into a valid RSS 2.0 feed using only URL parameters and CSS selectors. Whether the site doesn’t support RSS or you just want richer metadata, this tool gives you complete control over your feed.
 
 🌐 Live demo: [rss.manhattan.workers.dev](https://rss.manhattan.workers.dev)  
-📖 Blog article: [megabyte.space/css-to-rss](https://megabyte.space/css-to-rss)  
+📖 Blog article: [megabyte.space/generate-rss-feeds-from-any-website-with-cloudflare-workers-no-backend-needed](https://megabyte.space/generate-rss-feeds-from-any-website-with-cloudflare-workers-no-backend-needed)  
 🎥 Video walkthrough: [YouTube](https://www.youtube.com/watch?v=JsqihGmm24A)
 
 <a href="#table-of-contents" style="width:100%"><img style="width:100%" src="https://gitlab.com/megabyte-labs/assets/-/raw/master/png/aqua-divider.png" /></a>
@@ -107,7 +107,7 @@ Example: serve your RSS feed at `rss.yoursite.com`.
 
 ## 📄 Learn More
 
-- 📖 **Blog Post**: [CSS to RSS — How It Works](https://megabyte.space/css-to-rss)  
+- 📖 **Blog Post**: [CSS to RSS — How It Works](https://megabyte.space/generate-rss-feeds-from-any-website-with-cloudflare-workers-no-backend-needed)  
 - 🎬 **YouTube Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=JsqihGmm24A)
 
 <a href="#contributing" style="width:100%"><img style="width:100%" src="https://gitlab.com/megabyte-labs/assets/-/raw/master/png/aqua-divider.png" /></a>
