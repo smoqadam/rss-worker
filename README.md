@@ -29,6 +29,8 @@ This project lets you convert any blog or article listing page into a valid RSS 
 📖 Blog article: [megabyte.space/css-to-rss](https://megabyte.space/css-to-rss)  
 🎥 Video walkthrough: [YouTube](https://www.youtube.com/watch?v=JsqihGmm24A)
 
+<a href="#table-of-contents" style="width:100%"><img style="width:100%" src="https://gitlab.com/megabyte-labs/assets/-/raw/master/png/aqua-divider.png" /></a>
+
 ## 📚 Table of Contents
 
 - [✨ Features](#features)
