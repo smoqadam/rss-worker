@@ -4,19 +4,19 @@
 </div>
 
 <div align="center">
-  <a href="https://megabyte.space" title="Megabyte Labs homepage" target="_blank">
+  <a href="https://megabyte.space" title="Megabyte Labs homepage" target="_blank" style="text-decoration: none !important;">
     <img alt="Homepage" src="https://img.shields.io/website?down_color=%23FF4136&down_message=Down&label=Homepage&logo=home-assistant&logoColor=white&up_color=%232ECC40&up_message=Up&url=https%3A%2F%2Fmegabyte.space&style=for-the-badge" />
   </a>
-  <a href="https://megabyte.space/contributing/" title="Learn about contributing" target="_blank">
+  <a href="https://megabyte.space/contributing/" title="Learn about contributing" target="_blank" style="text-decoration: none !important;">
     <img alt="Contributing" src="https://img.shields.io/badge/Contributing-Guide-0074D9?logo=github-sponsors&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://app.slack.com/client/T01ABCG4NK1/C01NN74H0LW/details/" title="Chat with us on Slack" target="_blank">
+  <a href="https://app.slack.com/client/T01ABCG4NK1/C01NN74H0LW/details/" title="Chat with us on Slack" target="_blank" style="text-decoration: none !important;">
     <img alt="Slack" src="https://img.shields.io/badge/Slack-Chat-e01e5a?logo=slack&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://app.element.io/#/room/#megabyte:matrix.org" title="Chat with the community via Matrix.org" target="_blank">
+  <a href="https://app.element.io/#/room/#megabyte:matrix.org" title="Chat with the community via Matrix.org" target="_blank" style="text-decoration: none !important;">
     <img alt="Matrix" src="https://img.shields.io/matrix/megabyte:matrix.org?logo=matrix&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/ProfessorManhattan/rss-worker" title="GitHub mirror" target="_blank">
+  <a href="https://github.com/ProfessorManhattan/rss-worker" title="GitHub mirror" target="_blank" style="text-decoration: none !important;">
     <img alt="GitHub" src="https://img.shields.io/badge/Mirror-GitHub-333333?logo=github&style=for-the-badge" />
   </a>
 </div>
